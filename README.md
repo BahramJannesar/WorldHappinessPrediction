@@ -38,14 +38,14 @@ If you add all these factors up, you get the happiness score so it might be un-r
 
 ## Machine Learning (Linear Regression) :
 
-I created a ML model with Linear Regression based on these factors : 
+I created a machine learning model with Linear Regression based on these factors for 2015 and 2016 years : 
 
-* GDP per capita
-* Healthy Life Expectancy
-* Social support
-* Freedom to make life choices
+* Economy (GDP per Capita)
+* Family
+* Health (Life Expectancy)
+* Freedom
+* Trust (Government Corruption)
 * Generosity
-* Corruption Perception
-* Residual error
+* Dystopia Residual
 
 
