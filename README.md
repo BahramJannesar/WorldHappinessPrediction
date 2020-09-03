@@ -35,3 +35,17 @@ The following columns: GDP per Capita, Family, Life Expectancy, Freedom, Generos
 The Dystopia Residual metric actually is the Dystopia Happiness Score(1.85) + the Residual value or the unexplained value for each country as stated in the previous answer.
 
 If you add all these factors up, you get the happiness score so it might be un-reliable to model them to predict Happiness Scores.
+
+## Machine Learning (Linear Regression) :
+
+I created a ML model with Linear Regression based on these factors : 
+
+* GDP per capita
+* Healthy Life Expectancy
+* Social support
+* Freedom to make life choices
+* Generosity
+* Corruption Perception
+* Residual error
+
+
