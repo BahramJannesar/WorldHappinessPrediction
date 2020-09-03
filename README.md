@@ -48,4 +48,5 @@ I created a machine learning model with Linear Regression based on these factors
 * Generosity
 * Dystopia Residual
 
+![](https://github.com/BahramJannesar/WorldHappinessPrediction/blob/master/image/2.png)
 
